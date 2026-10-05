@@ -1,0 +1,29 @@
+{
+  "servers": {
+    "1": {
+      "name": "1",
+      "owner": "admin",
+      "runtime": "python",
+      "status": "stopped",
+      "main_file": "main.py",
+      "main_command": "",
+      "port": 8080,
+      "pid": null,
+      "created": "2026-10-05T22:28:44.177049"
+    }
+  },
+  "users": {
+    "admin": {
+      "joined": "2026-10-05T22:28:32.955933",
+      "password_hash": "0c85009aa39cee7f2a1fc112818b6fa1e2d37309fc24f25307f61f48f8d70715"
+    }
+  },
+  "settings": {
+    "maintenance": false,
+    "maintenance_msg": "System under maintenance.",
+    "theme_color": "#8b5cf6",
+    "normal_password": "RAFIN_TxT_123",
+    "site_name": "RAFIN TxT",
+    "auto_restart_interval": 300
+  }
+}
